@@ -1,1 +1,4 @@
 # StudentWellness360
+StudentWellness360 is a web-based lifestyle intervention program designed for college students, particularly those with demanding course loads such as engineering students. The program provides an intuitive user interface for planning and monitoring sleep, nutrition, and exercise, and includes social tools like forums and communities to promote user interaction and sharing of experiences with other students. The application's objective is to support students in leading healthy and successful lives despite the rigours of their coursework.
+
+This documentation serves as a comprehensive guide to the features and functionalities of StudentWellness360. Whether you are a student who wants to use the program to improve your lifestyle or a developer who wants to contribute to the project, this documentation will provide you with all the information you need to get started.
